@@ -1,4 +1,8 @@
 # Mushroom_Problem
 Kaggle's mushroom problem
 
-&#128552
+Edible :) 😋
+
+  or
+  
+Poisnous !! 😨
