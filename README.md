@@ -1,2 +1,4 @@
 # Mushroom_Problem
-Kaggle's muchroom problem
+Kaggle's mushroom problem
+
+&#128552
