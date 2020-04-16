@@ -18,7 +18,7 @@ Poisnous !! 😨
 - Click the button on the UI and the result will be displayed below the button.
 
 
-## Model Trainign
+## Model Training
 There is separate "ml_model" folder containing jupyter notebook named "Model_Training" for data exploration and model training.
 
 ## The Classifier model
